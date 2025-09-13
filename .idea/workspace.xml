@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a646cfd-4fed-482b-a9aa-1538e00b8102" name="Changes" comment="" />
+    <list default="true" id="9a646cfd-4fed-482b-a9aa-1538e00b8102" name="Changes" comment="This is an initial commit for Comp3111LEx Project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +44,8 @@
     "onboarding.tips.debug.path": "C:/Users/xiaoq/IdeaProjects/Comp3111LEx/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="TaskManager">
@@ -53,6 +56,15 @@
       <option name="presentableId" value="Default" />
       <updated>1757646769128</updated>
     </task>
+    <task id="LOCAL-00001" summary="This is an initial commit for Comp3111LEx Project">
+      <option name="closed" value="true" />
+      <created>1757763354965</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1757763354965</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,6 +89,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="This is an initial commit for Comp3111LEx Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is an initial commit for Comp3111LEx Project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
